@@ -3,7 +3,7 @@
 
 ### Description
 - Drum on your fingertips. Time to join a gang!
-- Please visit this link for the live view: 
+- Please visit this link for the live view: https://kunalbafna3.github.io/Drum-Kit/
  
 ### Technology used
 - HTML, CSS and Js
